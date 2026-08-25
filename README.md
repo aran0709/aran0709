@@ -22,7 +22,7 @@
 <!-- ABOUT -->
 <div align="center">
 
-Estudante de Ciência da Computação (5º semestre) na Universidade São Judas Tadeu, com foco em desenvolvimento de software e aprendizado contínuo em tecnologias Fullstack e Back-end. Possui conhecimentos em Java, JavaScript, Python, HTML, CSS, React, Tailwind CSS e FastAPI, além de fundamentos em APIs REST, Programação Orientada a Objetos (POO), algoritmos e estrutura de dados. Tem experiência com Git, GitHub, MongoDB, Mongoose e Prisma, desenvolvendo projetos práticos para evolução técnica. Atualmente, busca aprofundar conhecimentos em engenharia de software, arquitetura de sistemas, escalabilidade e boas práticas de desenvolvimento, visando crescimento profissional na área de tecnologia.
+Estudante de Ciência da Computação (6º semestre) na Universidade São Judas Tadeu, com foco em desenvolvimento de software e aprendizado contínuo em tecnologias Fullstack e Back-end. Possui conhecimentos em Java, JavaScript, Python, HTML, CSS, React, Tailwind CSS e FastAPI, além de fundamentos em APIs REST, Programação Orientada a Objetos (POO), algoritmos e estrutura de dados. Tem experiência com Git, GitHub, MongoDB, Mongoose e Prisma, desenvolvendo projetos práticos para evolução técnica. Atualmente, busca aprofundar conhecimentos em engenharia de software, arquitetura de sistemas, escalabilidade e boas práticas de desenvolvimento, visando crescimento profissional na área de tecnologia.
 </div>
 
 <br/>
